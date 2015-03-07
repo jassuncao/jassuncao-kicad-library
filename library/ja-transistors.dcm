@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3055
+D 2N3055, NPN, 15A Power Transistor,TO-3
+K 2N3055 NPN Power Transistor
+$ENDCMP
+#
+#End Doc Library
