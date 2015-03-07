@@ -1,0 +1,10 @@
+*.kicad_pcb-bak
+*.bak
+*.bck
+*.lst
+*.net
+*.ses
+*.dsn
+*.directory
+*.orig
+_autosave-*
