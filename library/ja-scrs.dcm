@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCR22-8
+D 1.5A RMS, 600V Silicon Controlled Rectifier
+K SCR OnSemi
+$ENDCMP
+#
+#End Doc Library
