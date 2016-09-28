@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RELAY_1NO
+D Relay 1 NO Circuit
+K RELAY
+$ENDCMP
+#
+#End Doc Library

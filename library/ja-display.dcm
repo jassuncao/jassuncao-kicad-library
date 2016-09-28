@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C-502
+D 2 x 7 Segments common Cathode
+K 7 SEGMENTS Paralight
+F ./doc/display/display-C-502G.pdf
+$ENDCMP
+#
+#End Doc Library

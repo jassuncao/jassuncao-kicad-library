@@ -5,4 +5,7 @@
 ### ja-transistors.lib
 * 2N3055
 
+### ja-scrs.lib
+* MCR22-8
+
 ## Footprints/Modules
