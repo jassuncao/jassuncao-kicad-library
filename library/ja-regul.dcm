@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM336
+D 2.5V Voltage reference TO-92
+K VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP MCP1702-5002E/TO
+D MCP1702 250 mA Low Quiescent Current LDO Regulator, Positive
+K REGULATOR LDO
+F http://www.mouser.com/ds/2/268/22008a-53656.pdf
+$ENDCMP
+#
+#End Doc Library
